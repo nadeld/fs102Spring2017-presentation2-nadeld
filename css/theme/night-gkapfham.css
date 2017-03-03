@@ -173,3 +173,14 @@ body {
 .black {
     color:#000000;
 }
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200vw;
+  margin-left: -100vw!important;
+  margin-top: -100vh!important;
+  height: 200vh;
+  background-color: rgba(0, 0, 0, 0.7);
+}
