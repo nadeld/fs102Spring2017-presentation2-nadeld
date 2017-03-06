@@ -149,10 +149,22 @@ body {
 .reveal .slide-number {
     color: #e7ad52; }
 
+.darkcyan {
+  color:#008B8B;
+}
+
 .orange {
   color:#ce5c00;
   text-decoration: none;
 }
+
+.indigo {
+  color:#4B0082;
+}
+
+.forestgreen {
+  color:#228B22;
+  }
 
 .plum {
   color:#ad7fa8;
